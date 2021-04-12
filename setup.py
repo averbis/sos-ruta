@@ -44,10 +44,10 @@ setup(
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     author='Averbis',
-    license='3-clause BSD',
+    license="Apache License, Version 2.0. Copyright Averbis GmbH",
     include_package_data=True,
     classifiers=[
-        'Development Status :: 1 - Beta',
+        "Development Status :: 4 - Beta",
         'Environment :: Console',
         'License :: OSI Approved :: Apache Software License',
         'Natural Language :: English',
