@@ -1,8 +1,10 @@
 sos-ruta
 
-Original work: Copyright (c) Bo Peng and the University of Texas MD Anderson Cancer Center
-Modified work: Copyright 2021 Averbis GmbH
+Copyright 2021 Averbis GmbH
+Licensed under Apache License Version 2.0.
 
-The Initial developer of the sos-kernel framework is Bo Peng and the University of Texas MD Anderson Cancer Center (https://vatlab.github.io/).
+This project incorporates code with the following Copyright/License:
+    Copyright (c) Bo Peng and the University of Texas MD Anderson Cancer Center
+    Distributed under BSD 3-Clause License
 
-The Averbis GmbH added support for the programming language Apache UIMA Ruta.
+
